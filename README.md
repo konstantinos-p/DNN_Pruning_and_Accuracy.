@@ -15,7 +15,7 @@ plot_single_GE: Plots accuracy for different levels of sparsity for individual D
 
 plot_mul_GE: Plots accuracy for different levels of sparsity across all DNN layers.
 
-plot_mul_sum_GE: For different levels of sparsity across all DNN layers, plots the sum of the induced degradation for i>i_\* where i_\* \in \{1,..d\} where d is the number of DNN layers.
+plot_mul_sum_GE: For different levels of sparsity across all DNN layers, plots the sum of the induced degradation for i>i\* where i\* in \{1,..d\} where d is the number of DNN layers.
 
 thresholding_cifar10: The main function used to take measurements.
 utils: Includes the implementation of Hard Thresholding and other auxiliary functions.
