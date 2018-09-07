@@ -1,7 +1,7 @@
 # DNN_Pruning_and_Accuracy.
 We conduct experiments on pruning DNN layers and it's effect on network accuracy. We also explore the relationship betweeen the intrinsic dimensionality of the data and the network robustness to pruning.
 
-create_model_cifar: trains a DNN on the cifar10 dataset and saves the corresponding saved model.
+<B>create_model_cifa</B>r: trains a DNN on the cifar10 dataset and saves the corresponding saved model.
 
 create_model_cifar_with_pca: trains a DNN on the cifar10 dataset after performing dimensionality reduction and saves the corresponding saved model.
 
