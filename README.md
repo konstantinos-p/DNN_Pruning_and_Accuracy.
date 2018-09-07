@@ -18,6 +18,7 @@ plot is calculated using multiple DNN instances and taking an average.
 <B>plot_mul_sum_GE</B>: For different levels of sparsity across all DNN layers, plots the sum of the induced degradation for i>i\* where i\* in \{1,..d\} where d is the number of DNN layers.
 
 <B>thresholding_cifar10</B>: The main function used to take measurements.
+
 <B>utils</B>: Includes the implementation of Hard Thresholding and other auxiliary functions.
 
 
